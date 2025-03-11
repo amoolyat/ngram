@@ -5,7 +5,8 @@
   * [2.1) Preparations](#21-preparations)  
   * [2.2) Install Packages](#22-install-packages)  
   * [2.3) Run N-gram](#23-run-n-gram-model)  
-* [3) Report](#3-report)  
+* [3) Report](#3-report)
+* [4) Prepared Dataset](#4-resources)
 
 # GenAI for Software Development: N-gram Code Completion
 
@@ -112,6 +113,10 @@ $ python predict_next_token.py
 ## **3. Report**
 
 The assignment report is available in the file Assignment_Report.pdf.
+
+## **4. Resources**
+
+[Prepared Dataset](https://drive.google.com/drive/folders/1-V-YGsuiS_Z7D4K0XZExEqnqC9K9S8s_?usp=sharing)
 
 ## **4. Repository Structure**
 ```
