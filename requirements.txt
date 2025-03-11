@@ -1,0 +1,10 @@
+requests
+gitpython
+javalang
+numpy
+pandas
+json
+re
+collections
+itertools
+argparse
